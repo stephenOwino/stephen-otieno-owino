@@ -12,11 +12,7 @@ const Contact = () => {
 			<div className='container contact' id='contact'>
 				<h1>CONTACT ME</h1>
 				<div className='full-width-wrapper'>
-					<div
-						className='contact-icon'
-						data-aos='zoom-in-up'
-						data-aos-duration='1000'
-					>
+					<div className='contact-icon' data-aos-duration='1000'>
 						<a
 							href='https://www.facebook.com/facebook.com.stev'
 							target='_blank'

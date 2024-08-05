@@ -166,7 +166,7 @@ a {
 }
 
 .contact-icon .items {
-	background-color: black;
+	background-color: rgb(32, 68, 228);
 	margin: 10px;
 	height: 50px; /* Reduced height for smaller screens */
 	width: 50px; /* Reduced width for smaller screens */
