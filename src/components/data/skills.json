@@ -1,0 +1,77 @@
+[
+  {
+    "title":"Java",
+    "imageSrc":"skills/java1.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title":"Spring boot",
+    "imageSrc":"skills/spring boot.png"
+  },
+  {
+    "title":"Maven",
+    "imageSrc":"skills/maven.png"
+  },
+  {
+    "title":"Graddle",
+    "imageSrc":"skills/graddle.png"
+  },
+  {
+    "title": "Spring",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title":"Kotlin",
+    "imageSrc":"skills/kotlin.png"
+  },
+  {
+    "title":"Android",
+    "imageSrc":"skills/android.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+{
+  "title":"Tailwind",
+  "imageSrc":"skills/tailwind.png"
+}
+,
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title":"Redux",
+    "imageSrc":"skills/redux.png"
+  },
+  {
+    "title":"Typescript",
+    "imageSrc":"skills/typescript.png"
+  },
+  
+  {
+    "title":"Firebase",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "title": "Mysql",
+    "imageSrc": "skills/mysql.jpg"
+  },
+  {
+    "title": "Websockets",
+    "imageSrc": "skills/websockets.png"
+  }
+  
+]

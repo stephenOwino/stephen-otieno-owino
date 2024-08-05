@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "role": "Java Developer Intern",
+    "organisation": "Codsoft",
+    "startDate": "June, 2021",
+    "endDate": "Aug, 2021",
+    "location": "Remote",
+    "experiences": [
+
+      "During my time at CodSoft, I assisted in developing and maintaining Java-based software systems. I actively participated in code reviews, where I implemented feedback to improve code quality. I gained valuable skills in testing and debugging applications, and I developed a full-stack ATM machine application using React.js and Spring Boot. Additionally, I collaborated with senior developers to enhance various projects."
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "WEb developer Intern",
+    "organisation": "CodeAlpha",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "Remote",
+    "experiences": [
+      "During the internship at CODEALPH, I was part of a team responsible for developing a robust online learning platform aimed at delivering a seamless user experience for both students and instructors. The platform featured course management, interactive quizzes, video streaming, and a user dashboard."
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  
+  
+  {
+    "id": 4,
+    "role": "Java Developer Intern",
+    "organisation": "Let's Grow more",
+    "startDate": "feb, 2023",
+    "endDate": "Apr, 2023",
+    "location": "Remote",
+    "experiences": [
+    "During the internship at LetsGrowMore, I was tasked with enhancing the backend system of an existing e-commerce platform. The project aimed to optimize the platform’s performance, improve the user experience, and add new features that align with modern e-commerce trends."
+    ],
+    "imageSrc": "company/grow.jpg"
+  }
+]
+
+

@@ -1,0 +1,53 @@
+
+
+[
+  {
+    "key": 1,
+    "title": "React-Learning-Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2024/05/20/08/19/ai-generated-8774130_1280.jpg",
+    "description": "This is a project made with complete React js and Bootstrap",
+    "demo": "https://learning-website-a5q6.onrender.com",
+    "source": "https://github.com/stephenOwino/Learning-website"
+  },
+  {
+    "key": 2,
+    "title": "Mortgage Calculator",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/10/07/15/23/real-estate-6688945_1280.jpg",
+    "description": "A mortgage calculator helps you determine your monthly mortgage payments based on the loan amount, interest rate.reactjs,MUI",
+    "demo": "https://mortgage-calculator-qj5x.onrender.com",
+    "source": "https://github.com/stephenOwino/mortgage-calculator"
+  },
+  {
+    "key": 3,
+    "title": "Firebase Auth(Google)",
+    "imageSrc": "https://cdn.pixabay.com/photo/2014/10/12/12/38/google-485611_1280.jpg",
+    "description": "This application is developed using Firebase for the backend and React for the frontend. It provides a seamless user experience with Google authentication for secure sign-ins.#firebase,reactjs",
+    "demo": "https://auth-react-firebase.onrender.com",
+    "source": "https://github.com/stephenOwino/auth-react-firebase"
+  },
+  {
+    "key": 4,
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "https://cdn.pixabay.com/photo/2020/06/17/19/21/play-5310799_1280.jpg",
+    "description": "This is a classic Tic Tac Toe game developed with React.js and styled using Tailwind CSS. The game allows two players to take turns marking squares on a 3x3 grid to achieve three in a row and win.",
+    "demo": "https://tic-tac-toe-reactjs-nfq5.onrender.com",
+    "source": "https://github.com/stephenOwino/tic-tac-toe-reactjs"
+  },
+   {
+    "key": 4,
+    "title": "E-Shopping-Cart",
+    "imageSrc": "https://cdn.pixabay.com/photo/2019/10/07/12/08/online-shopping-4532460_1280.jpg",
+    "description": "This e-commerce shopping cart application offers a seamless shopping experience, allowing users to browse products, manage their cart, and complete purchases. Developed with React for the frontend, MySQL for the backend, and styled with Tailwind CSS, the application ensures a responsive and modern user interface.",
+    "demo": "https://shopping-cart-l1m9.onrender.com",
+    "source": "https://github.com/stephenOwino/shopping-cart"
+  },
+   {
+    "key": 4,
+    "title": "Todo List",
+    "imageSrc": "https://cdn.pixabay.com/photo/2015/05/01/23/44/to-do-list-749304_960_720.jpg",
+    "description": "This To-Do List application helps users manage their tasks efficiently by providing a simple and intuitive interface for adding, editing, and organizing tasks. Built with React for the frontend and styled with Tailwind CSS, reactjs,Tailwindcss",
+    "demo": "https://react-todo-liist.onrender.com",
+    "source": "https://github.com/stephenOwino/react-todo-liist"
+  }
+]
+
