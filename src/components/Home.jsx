@@ -3,7 +3,7 @@ import stephen from "./data/hero.json";
 import Typed from "typed.js";
 
 const pdf =
-	"https://drive.google.com/file/d/1jMSKDH4C3aSWoBkikERpiRF9X2WqIflo/view?usp=sharing";
+	"https://drive.google.com/file/d/1g2WhyxBPdurwHaDn7SbK1VuRPb8zu10F/view";
 
 const Home = () => {
 	const typedRef = useRef(null);
@@ -36,7 +36,7 @@ const Home = () => {
 
 					<a
 						href={pdf}
-						download='Resume.pdf'
+						download='resume.pdf'
 						className='btn btn-outline-warning my-3'
 					>
 						Download Resume

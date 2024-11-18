@@ -1,5 +1,3 @@
-
-
 [
   {
     "key": 1,
@@ -33,16 +31,16 @@
     "demo": "https://tic-tac-toe-reactjs-nfq5.onrender.com",
     "source": "https://github.com/stephenOwino/tic-tac-toe-reactjs"
   },
-   {
-    "key": 4,
+  {
+    "key": 5,
     "title": "E-Shopping-Cart",
     "imageSrc": "https://cdn.pixabay.com/photo/2019/10/07/12/08/online-shopping-4532460_1280.jpg",
     "description": "This e-commerce shopping cart application offers a seamless shopping experience, allowing users to browse products, manage their cart, and complete purchases. Developed with React for the frontend, MySQL for the backend, and styled with Tailwind CSS, the application ensures a responsive and modern user interface.",
     "demo": "https://shopping-cart-l1m9.onrender.com",
     "source": "https://github.com/stephenOwino/shopping-cart"
   },
-   {
-    "key": 4,
+  {
+    "key": 6,
     "title": "Todo List",
     "imageSrc": "https://cdn.pixabay.com/photo/2015/05/01/23/44/to-do-list-749304_960_720.jpg",
     "description": "This To-Do List application helps users manage their tasks efficiently by providing a simple and intuitive interface for adding, editing, and organizing tasks. Built with React for the frontend and styled with Tailwind CSS, reactjs,Tailwindcss",
@@ -50,4 +48,3 @@
     "source": "https://github.com/stephenOwino/react-todo-liist"
   }
 ]
-

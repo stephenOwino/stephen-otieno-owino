@@ -1,43 +1,53 @@
 [
   {
     "id": 1,
-    "role": "Java Developer Intern",
-    "organisation": "Codsoft",
-    "startDate": "June, 2021",
-    "endDate": "Aug, 2021",
+    "role": "Backend Java Developer Intern",
+    "organisation": "Shop Online New York (USA)",
+    "startDate": "March, 2022",
+    "endDate": "August, 2022",
     "location": "Remote",
     "experiences": [
-
-      "During my time at CodSoft, I assisted in developing and maintaining Java-based software systems. I actively participated in code reviews, where I implemented feedback to improve code quality. I gained valuable skills in testing and debugging applications, and I developed a full-stack ATM machine application using React.js and Spring Boot. Additionally, I collaborated with senior developers to enhance various projects."
+      "Developed and maintained RESTful APIs using Spring Boot for user authentication, product listings, and order processing.",
+      "Collaborated with frontend teams to integrate backend services seamlessly.",
+      "Conducted unit testing using JUnit and Mockito to ensure code quality and reliability.",
+      "Debugged complex application issues to improve performance and functionality.",
+      "Implemented CI/CD pipelines with GitHub Actions for automated testing and deployment."
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bqc654MlFUHEKVlX5hPBuLVha6521DZfsg&s"
   },
   {
     "id": 2,
-    "role": "WEb developer Intern",
-    "organisation": "CodeAlpha",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
+    "role": "Software Developer",
+    "organisation": "Freelance (Upwork)",
+    "startDate": "February, 2023",
+    "endDate": "August, 2023",
     "location": "Remote",
     "experiences": [
-      "During the internship at CODEALPH, I was part of a team responsible for developing a robust online learning platform aimed at delivering a seamless user experience for both students and instructors. The platform featured course management, interactive quizzes, video streaming, and a user dashboard."
+      "Designed and developed a competency-based education website using React.js and Spring Boot.",
+      "Utilized PostgreSQL to store and manage user data, learning materials, and progress tracking.",
+      "Wrote unit tests with JUnit, Mockito, and Jest to ensure application reliability.",
+      "Managed project workflows through Agile methodologies with JIRA.",
+      "Integrated Spring Security for secure user authentication and authorization."
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "https://cdn.shopify.com/s/files/1/2642/6578/articles/442269ac56eddaecd3fa3dd752c38870.jpg?v=1631828825"
   },
-  
-  
   {
-    "id": 4,
-    "role": "Java Developer Intern",
-    "organisation": "Let's Grow more",
-    "startDate": "feb, 2023",
-    "endDate": "Apr, 2023",
+    "id": 3,
+    "role": "Software Developer",
+    "organisation": "Indigo AS",
+    "startDate": "August, 2024",
+    "endDate": "Present",
     "location": "Remote",
     "experiences": [
-    "During the internship at LetsGrowMore, I was tasked with enhancing the backend system of an existing e-commerce platform. The project aimed to optimize the platform’s performance, improve the user experience, and add new features that align with modern e-commerce trends."
+      "Contributed to the 'Rented Art' project, a platform for artists to upload artwork for businesses to rent.",
+      "Developed frontend pages using React Native and collaborated on backend features with Flask/Django.",
+      "Implemented and maintained CI/CD pipelines for both frontend and backend using GitHub Actions.",
+      "Managed SQL databases to store rental history, artwork details, and user interactions.",
+      "Debugged and enhanced full-stack application functionality."
     ],
-    "imageSrc": "company/grow.jpg"
+    "imageSrc": "https://seeklogo.com/images/I/indigo-logo-EDBB4B3C09-seeklogo.com.png"
   }
 ]
+
 
 
