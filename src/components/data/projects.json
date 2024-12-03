@@ -1,6 +1,15 @@
 [
+   {
+  "key": 1,
+  "title": "sewstyles-platform",
+  "imageSrc": "https://static.independent.co.uk/2024/10/23/12/Sewing-machine-hero-indybest.jpg",
+  "description": "SewStyles is a platform connecting clients with skilled tailors and sewers, streamlining the process of finding the right professional. Application in progress.",
+  "demo": "https://sewstyles-platform.onrender.com",
+  "source": "https://github.com/stephenOwino/Sew_Styles-FA"
+}
+,
   {
-    "key": 1,
+    "key": 2,
     "title": "React-Learning-Website",
     "imageSrc": "https://cdn.pixabay.com/photo/2024/05/20/08/19/ai-generated-8774130_1280.jpg",
     "description": "This is a project made with complete React js and Bootstrap",
@@ -8,21 +17,14 @@
     "source": "https://github.com/stephenOwino/Learning-website"
   },
   {
-    "key": 2,
+    "key": 3,
     "title": "Mortgage Calculator",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/10/07/15/23/real-estate-6688945_1280.jpg",
     "description": "A mortgage calculator helps you determine your monthly mortgage payments based on the loan amount, interest rate.reactjs,MUI",
     "demo": "https://mortgage-calculator-qj5x.onrender.com",
     "source": "https://github.com/stephenOwino/mortgage-calculator"
   },
-  {
-    "key": 3,
-    "title": "Firebase Auth(Google)",
-    "imageSrc": "https://cdn.pixabay.com/photo/2014/10/12/12/38/google-485611_1280.jpg",
-    "description": "This application is developed using Firebase for the backend and React for the frontend. It provides a seamless user experience with Google authentication for secure sign-ins.#firebase,reactjs",
-    "demo": "https://auth-react-firebase.onrender.com",
-    "source": "https://github.com/stephenOwino/auth-react-firebase"
-  },
+ 
   {
     "key": 4,
     "title": "Tic Tac Toe Game",

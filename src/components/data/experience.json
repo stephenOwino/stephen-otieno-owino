@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "role": "Backend Java Developer Intern",
+    "role": "Backend Java Developer At Shop Online New York (USA)",
     "organisation": "Shop Online New York (USA)",
     "startDate": "March, 2022",
     "endDate": "August, 2022",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "role": "Software Developer",
+    "role": "Software Developer At Upwork",
     "organisation": "Freelance (Upwork)",
     "startDate": "February, 2023",
     "endDate": "August, 2023",
@@ -33,13 +33,13 @@
   },
   {
     "id": 3,
-    "role": "Software Developer",
+    "role": "Software Developer At Indigo As",
     "organisation": "Indigo AS",
     "startDate": "August, 2024",
     "endDate": "Present",
     "location": "Remote",
     "experiences": [
-      "Contributed to the 'Rented Art' project, a platform for artists to upload artwork for businesses to rent.",
+      "Contributing to the 'Rented Art' project, a platform for artists to upload artwork for businesses to rent.",
       "Developed frontend pages using React Native and collaborated on backend features with Flask/Django.",
       "Implemented and maintained CI/CD pipelines for both frontend and backend using GitHub Actions.",
       "Managed SQL databases to store rental history, artwork details, and user interactions.",
