@@ -10,11 +10,11 @@
 ,
   {
     "key": 2,
-    "title": "React-Learning-Website",
-    "imageSrc": "https://cdn.pixabay.com/photo/2024/05/20/08/19/ai-generated-8774130_1280.jpg",
-    "description": "This is a project made with complete React js and Bootstrap",
-    "demo": "https://learning-website-a5q6.onrender.com",
-    "source": "https://github.com/stephenOwino/Learning-website"
+    "title": "Rented-Art",
+    "imageSrc": "https://storage.googleapis.com/propcart-dev.appspot.com/images/items/home_1704460573517.jpg",
+    "description": "This is a project made with Ractjs,tailwind css and redux.It is a platform where renters uploads their artpieces for renting.Application in progress.",
+    "demo": "https://rented-art.onrender.com",
+    "source": "https://github.com/stephenOwino/Rented_Art_FrontendDev"
   },
   {
     "key": 3,
